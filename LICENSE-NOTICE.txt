@@ -1,1 +1,4 @@
-This project uses Transformers.js and publicly hosted ONNX Whisper model files. Those components retain their respective licenses and terms. Review each upstream project/model card before redistributing modified copies.
+This project uses Transformers.js (@huggingface/transformers) and model files hosted by Hugging Face.
+Those dependencies and models are provided under their own respective licenses and terms.
+Please review each dependency/model card before redistribution or commercial use.
+The HTML/CSS/JavaScript in this project is supplied as-is without warranty.
