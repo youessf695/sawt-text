@@ -1,0 +1,1 @@
+This project uses Transformers.js and publicly hosted ONNX Whisper model files. Those components retain their respective licenses and terms. Review each upstream project/model card before redistributing modified copies.
